@@ -1,0 +1,8 @@
+base
+base-devel
+linux-firmware
+git
+neovim
+polkit
+less
+wget
