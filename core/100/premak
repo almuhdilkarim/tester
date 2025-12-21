@@ -1,0 +1,5 @@
+
+function raptor_cores_prep() {
+    sleep 2 && clear
+    echo "Base module installation"
+}

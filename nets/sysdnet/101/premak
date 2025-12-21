@@ -1,0 +1,18 @@
+
+function raptor_neter_prep_conf() {
+    if [[ ! -e "/mnt/etc/systemd/network/"* ]];then
+        echo "prepare systemd network configuration"
+        cp "/etc/systemd/network/"* "/mnt/etc/systemd/network/"
+    fi
+    if [[ ! -d "/mnt/var/lib/iwd/" ]];then
+        echo "prepare wireless network configuration"
+        mkdir -p /mnt/var/lib/iwd/ &&
+        cp -f "/var/lib/iwd/"*.psk "/mnt/var/lib/iwd/"
+    fi
+}
+
+function raptor_neter_prep() {
+    sleep 2 && clear
+    echo "Network module installation"
+    raptor_neter_prep_conf
+}

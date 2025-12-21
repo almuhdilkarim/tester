@@ -1,2 +1,2 @@
-# craineos distro preset
-Default operating system boilerplate
+# protos
+Based craine linux studio protocol
