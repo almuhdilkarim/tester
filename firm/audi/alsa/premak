@@ -1,5 +1,0 @@
-
-function raptor_audio_prep() {
-    sleep 2 && clear
-    echo "Audio module Installation"
-}
