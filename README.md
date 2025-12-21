@@ -1,2 +1,2 @@
-# testing
-testing repo for craine
+# craineos distro preset
+Default operating system boilerplate
