@@ -1,6 +1,6 @@
 ## DISTRO OVERVIEW 
 distro_name="Testo"
-distro_uniq=default
+distro_uniq=testo
 distro_logo=""
 distro_wall=""
 distro_base=""
