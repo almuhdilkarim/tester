@@ -1,6 +1,6 @@
 ## DISTRO OVERVIEW 
 distro_name="Testo"
-distro_uniq=default
+distro_uniq=testo
 distro_logo=""
 distro_wall=""
 distro_base=""
@@ -8,7 +8,6 @@ distro_base=""
 
 ## PROD GITREPO
 gitrepo_preset="https://github.com/almuhdilkarim/preset.git"
-gitrepo_parent="https://github.com/almuhdilkarim/preset.git"
 
 
 ## DISTRO SITES 
