@@ -5,7 +5,6 @@ distro_logo=""
 distro_wall=""
 distro_base=""
 distro_repo="git@github.com:almuhdilkarim/testing.git"
-distro_repo="https://github.com/almuhdilkarim/preset.git"
 
 
 ## DISTRO SITES 
