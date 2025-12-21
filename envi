@@ -1,28 +1,3 @@
-## DISTRO OVERVIEW 
-preset_name="Testo"
-preset_uniq="testo"
-preset_logo=""
-preset_wall=""
-preset_base=""
-preset_repo="git@github.com:almuhdilkarim/testing.git"
-
-
-## DISTRO SITES 
-preset_site_main=""
-preset_site_docs=""
-preset_site_talk=""
-preset_site_bugs=""
-preset_site_priv=""
-
-
-## DEVELOPER INFO
-preset_developer=""
-preset_maintener=""
-preset_licensing=""
-
-
-## SYSTEM CONFIGS
-preset_multilib=0
-preset_bootsize=2G
-preset_procsize=2G
-preset_homesize=2G  
+proset_auth="Al Muhdil Karim"
+proset_name="default"
+proset_repo="https://github.com/almuhdilkarim/protos.git"

@@ -1,2 +1,2 @@
-# craineos distro preset
-Default operating system boilerplate
+# profile
+craine operating system profile 
