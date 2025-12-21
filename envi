@@ -8,7 +8,7 @@ preset_repo="git@github.com:almuhdilkarim/testing.git"
 
 
 ## DISTRO SITES 
-preset_site_main=""
+preset_site_main="test"
 preset_site_docs=""
 preset_site_talk=""
 preset_site_bugs=""
