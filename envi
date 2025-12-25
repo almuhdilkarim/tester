@@ -10,7 +10,7 @@ repository_based="https://github.com/almuhdilkarim/tester.git"
 
 ## DISTRO REPOS
 repository_alpha="room_lab01"
-repository_betas="room_lab02"
+repository_betas="room_lab03"
 
 
 ## PROSET ENVIR
