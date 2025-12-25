@@ -1,4 +1,41 @@
-protos_auth="al muhdil karim"
-protos_base="blacker"
-protos_name="001"
-protos_repo="git@github.com:almuhdilkarim/testing.git"
+## GENERALS INFO 
+preset_spreading="KArim OS"
+preset_workloads="desktop"
+preset_developer=()
+preset_maintener=()
+preset_licensing=""
+
+
+## DISTRO ASSETS
+preset_basedlogo=""
+preset_basedboot=""
+preset_basedwall=""
+
+
+## PROSET ENVIR
+preset_prosetvar="default"
+
+
+## PROTOS ENVIR
+preset_multilibs=true
+preset_protobase="default"
+preset_protoname=""
+
+
+## DISTRO SITES
+preset_repo_base="https://github.com/almuhdilkarim/tester.git" 
+preset_repo_labs="https://github.com/almuhdilkarim/tester.git" 
+preset_repo_main=""
+preset_repo_home=""
+preset_repo_pack=""
+preset_repo_docs=""
+preset_repo_room=""
+preset_repo_bugs=""
+preset_repo_priv=""
+preset_repo_labs=""
+
+
+## SEMANTIC VERS
+preset_ver_major=0
+preset_ver_minor=0
+preset_ver_patch=0
