@@ -21,10 +21,11 @@ preset_multilibs=true
 preset_protobase="default"
 preset_protoname=""
 
+## DISTRO REPOS
+remotegit_master="https://github.com/almuhdilkarim/tester.git" 
+remotegit_tester="https://gitlab.com/almuhdilkarim/testers.git" 
 
 ## DISTRO SITES
-preset_repo_base="https://github.com/almuhdilkarim/tester.git" 
-preset_repo_labs="https://gitlab.com/almuhdilkarim/testers.git" 
 preset_repo_main=""
 preset_repo_home=""
 preset_repo_pack=""
