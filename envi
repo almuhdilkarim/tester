@@ -24,7 +24,7 @@ preset_protoname=""
 
 ## DISTRO SITES
 preset_repo_base="https://github.com/almuhdilkarim/tester.git" 
-preset_repo_labs="https://gitlab.com/almuhdilkarim/tester.git" 
+preset_repo_labs="https://gitlab.com/almuhdilkarim/testers.git" 
 preset_repo_main=""
 preset_repo_home=""
 preset_repo_pack=""
