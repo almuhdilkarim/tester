@@ -4,12 +4,13 @@ preset_workloads="desktop"
 preset_developer=()
 preset_maintener=()
 preset_licensing=""
+preset_multilibs=true
+repository_based="https://github.com/almuhdilkarim/tester.git"
 
 
-## DISTRO ASSETS
-preset_basedlogo=""
-preset_basedboot=""
-preset_basedwall=""
+## DISTRO REPOS
+repository_alpha="room_lab01"
+repository_betas="room_lab02"
 
 
 ## PROSET ENVIR
@@ -17,13 +18,9 @@ preset_prosetvar="default"
 
 
 ## PROTOS ENVIR
-preset_multilibs=true
 preset_protobase="default"
 preset_protoname=""
 
-## DISTRO REPOS
-remotegit_master="https://github.com/almuhdilkarim/tester.git" 
-remotegit_tester="https://gitlab.com/almuhdilkarim/testers.git" 
 
 ## DISTRO SITES
 preset_repo_main=""
