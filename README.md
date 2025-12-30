@@ -1,2 +1,2 @@
-# craineos distro preset
-Default operating system boilerplate
+# HELIOS DEFAULT distro preset
+Helios Default operating system
