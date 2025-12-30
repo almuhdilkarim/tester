@@ -61,13 +61,13 @@ site_repo="https://github.com/almuhdilkarim/tester.git"
 
 
 ## DEVTEAM INFO## repo variable
-team_devel=()
-team_maint=()
-team_contr=()
+coreteams=()
+maintener=()
+contribut=()
 
 
 
 ## SEMANTIC VERS
 ver_major=0
 ver_minor=0
-ver_patch=10
+ver_patch=11
