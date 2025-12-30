@@ -1,0 +1,73 @@
+## general
+base_name="Helios"
+spin_name="Default"
+auth_name="Al Muhdil Karim"
+base_repo="https://github.com/almuhdilkarim/tester.git"
+
+
+## pather
+path_main="~/.local/craine/helios"
+path_spin="~/.local/craine/helios/default"
+
+
+## system
+core_mlib=true
+core_type="desktop"
+core_wall=""
+core_logo=""
+releasing=""
+licensing=""
+
+
+
+## storage
+boot_size=""
+proc_size=""
+user_size=""
+data_size=""
+
+
+
+## models
+base_kern=""
+base_wind=""
+base_audi=""
+base_boot=""
+base_nets=""
+
+
+
+## proset
+proset_type="default"
+
+
+
+## protocol
+protos_base=""
+protos_name=""
+
+
+
+## website
+site_main=""
+site_home=""
+site_pack=""
+site_docs=""
+site_room=""
+site_bugs=""
+site_priv=""
+site_labs=""
+
+
+
+## DEVTEAM INFO## repo variable
+team_devel=()
+team_maint=()
+team_contr=()
+
+
+
+## SEMANTIC VERS
+ver_major=0
+ver_minor=0
+ver_patch=2

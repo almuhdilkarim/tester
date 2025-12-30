@@ -1,0 +1,5 @@
+
+function craine_distro_post() {
+    sleep 2 && clear
+    echo "Distro module installation"
+}

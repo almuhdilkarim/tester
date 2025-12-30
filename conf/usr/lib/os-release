@@ -1,0 +1,10 @@
+NAME="HELIOS"
+PRETTY_NAME="HELIOS"
+ID=helios
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://helios.yuros.org"
+DOCUMENTATION_URL="https://helios.yuros.org/docs"
+SUPPORT_URL="https://helios.yuros.org/forum"
+BUG_REPORT_URL="https://helios.yuros.org/issues"
+PRIVACY_POLICY_URL="https://helios.yuros.org/privacy"
+LOGO=helios-logo

@@ -1,2 +1,2 @@
-# HELIOS DEFAULT distro preset
+# HELIOS distro preset
 Helios Default operating system
