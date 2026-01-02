@@ -12,7 +12,7 @@ path_spin="~/.local/craine/helios/default"
 ## system
 core_mlib=true
 core_type="desktop"
-core_wall="as"
+core_wall=""
 core_logo=""
 releasing=""
 licensing=""
