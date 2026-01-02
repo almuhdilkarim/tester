@@ -21,14 +21,14 @@ licensing=""
 
 ## storage
 boot_size=""
-proc_size="a"
+proc_size=""
 user_size=""
 data_size=""
 
 
 
 ## models
-base_kern="a"
+base_kern=""
 base_wind=""
 base_audi=""
 base_boot=""
