@@ -21,14 +21,14 @@ licensing=""
 
 ## storage
 boot_size=""
-proc_size=""
+proc_size="a"
 user_size=""
 data_size=""
 
 
 
 ## models
-base_kern=""
+base_kern="a"
 base_wind=""
 base_audi=""
 base_boot=""
@@ -54,7 +54,7 @@ site_pack=""
 site_docs=""
 site_room=""
 site_bugs=""
-site_priv=""
+site_priv="asd"
 site_labs=""
 site_repo="https://github.com/almuhdilkarim/tester.git"
 
@@ -64,10 +64,3 @@ site_repo="https://github.com/almuhdilkarim/tester.git"
 coreteams=()
 maintener=()
 contribut=()
-
-
-
-## SEMANTIC VERS
-ver_major=2
-ver_minor=4
-ver_patch=5
