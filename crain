@@ -54,7 +54,7 @@ site_pack=""
 site_docs=""
 site_room=""
 site_bugs=""
-site_priv=""
+site_priv="asd"
 site_labs=""
 site_repo="https://github.com/almuhdilkarim/tester.git"
 
