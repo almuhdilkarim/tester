@@ -28,7 +28,7 @@ data_size=""
 
 
 ## models
-base_kern=""
+base_kern="a"
 base_wind=""
 base_audi=""
 base_boot=""
