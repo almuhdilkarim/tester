@@ -1,0 +1,20 @@
+                                                       
+#######################################################
+ CRAINE UPDATE  PRESET LOGS                          
+#######################################################
+ distro   : Helios                                 
+ variant  : Default                                 
+ builder  : karim                                      
+ actions  : update                               
+ modules  : preset                               
+ starting : Sat Jan  3 04:26:36 WIB 2026                                  
+ hostname : blackrel                                  
+#######################################################
+                                                       
+[2026-01-03]-[04:26:36]-(karim@blackrel)--| INFO - I59003 |--> initialize sshagent for ssh connection
+[2026-01-03]-[04:26:36]-(karim@blackrel)--| INFO - I59004 |--> register ssh keys to system ssh agents
+[2026-01-03]-[04:26:38]-(karim@blackrel)--| INFO - I59005 |--> testing remote connection to repo host
+[2026-01-03]-[04:26:40]-(karim@blackrel)--| WARN - W59004 |--> failed to established ssh connections
+[2026-01-03]-[04:26:40]-(karim@blackrel)--| INFO - I59008 |--> create custom http link for local repo
+[2026-01-03]-[04:26:41]-(karim@blackrel)--| INFO - I59008 |--> create custom http link for local repo
+[2026-01-03]-[04:26:41]-(karim@blackrel)--| INFO - I59009 |--> using https connections instead of ssh
